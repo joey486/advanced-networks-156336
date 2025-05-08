@@ -5,7 +5,6 @@
 # Usage: Fill the missing functions and constants
 
 # name: joey heifetz
-# ID: 216175398
 
 # Import modules
 import socket
